@@ -1,0 +1,8 @@
+torch
+psutil
+pydantic
+streamlit
+fastapi
+uvicorn
+requests
+rich
